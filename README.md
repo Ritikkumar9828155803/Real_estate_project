@@ -2,7 +2,7 @@
 
 An end-to-end **machine learning project** for predicting residential plot prices and providing an interactive analytics dashboard using real-world real estate data.
 
-🔗 **Live App:** _Add your Streamlit link here_  
+ 
 📁 **Data Source:** 99acres (web-scraped) + additional integrated datasets  
 
 ---
@@ -79,7 +79,7 @@ Key engineered features:
 
 The following regression models were trained and compared:
 
-- XGBoost Regressor ✅ **(Best Model)**  
+- XGBoost Regressor
 - Random Forest Regressor  
 - Gradient Boosting Regressor  
 - Support Vector Regressor (SVR)  
