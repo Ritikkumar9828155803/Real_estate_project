@@ -22,7 +22,7 @@ This project builds a complete **data science pipeline**:
 
 - **Language:** Python  
 - **Data Processing:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn, Plotly, WordCloud  
+- **Visualization:** Matplotlib, Seaborn, Plotly 
 - **Machine Learning:** Scikit-learn, XGBoost  
 - **Web Scraping:** BeautifulSoup, Requests  
 - **Deployment:** Streamlit  
