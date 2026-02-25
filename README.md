@@ -11,7 +11,7 @@ An end-to-end **machine learning project** for predicting residential plot price
 
 This project builds a complete **data science pipeline**:
 
-- Web scraping real estate listings from 99acres  
+- Web scraping real estate listings 
 - Data cleaning, preprocessing, and feature engineering  
 - Exploratory Data Analysis (EDA) with statistical and geospatial insights  
 - Training and comparing multiple regression models  
