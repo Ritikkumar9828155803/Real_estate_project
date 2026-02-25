@@ -2,8 +2,6 @@
 
 An end-to-end **machine learning project** for predicting residential plot prices and providing an interactive analytics dashboard using real-world real estate data.
 
- 
-📁 **Data Source:** 99acres (web-scraped) + additional integrated datasets  
 
 ---
 
